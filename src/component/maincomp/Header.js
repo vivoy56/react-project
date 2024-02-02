@@ -35,7 +35,7 @@ return (
                          <Link class="tag_menu" to="/Blog">BLOG</Link>                  </li>   
                     
 					<li>
-                        <a class="tag_menu" href="testimonial.html">TESTIMONIAL</a>                    </li>
+                        <Link class="tag_menu" to="testimonial">TESTIMONIAL</Link>                    </li>
 					
 					<li>
                         <a class="tag_menu" href="gallery.html">GALLERY</a>                    </li>
