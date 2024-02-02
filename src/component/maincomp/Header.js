@@ -35,10 +35,10 @@ return (
                          <Link class="tag_menu" to="/Blog">BLOG</Link>                  </li>   
                     
 					<li>
-                        <Link class="tag_menu" to="testimonial">TESTIMONIAL</Link>                    </li>
+                        <Link class="tag_menu" to="/testimonial">TESTIMONIAL</Link>                    </li>
 					
 					<li>
-                        <a class="tag_menu" href="gallery.html">GALLERY</a>                    </li>
+                        <Link class="tag_menu" to="/gallery">GALLERY</Link>                    </li>
 					
 					<li>
                         <a class="tag_menu" href="service.html">SERVICES</a>                    </li>
