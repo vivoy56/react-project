@@ -41,7 +41,7 @@ return (
                         <Link class="tag_menu" to="/gallery">GALLERY</Link>                    </li>
 					
 					<li>
-                        <a class="tag_menu" href="service.html">SERVICES</a>                    </li>
+                        <Link class="tag_menu" to="/service">SERVICES</Link>                    </li>
 						
 					<li>
                         <a class="tag_menu" href="team.html">TEAM</a>                    </li>
