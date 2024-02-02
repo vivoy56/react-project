@@ -47,7 +47,7 @@ return (
                         <Link class="tag_menu" to="/team">TEAM</Link>                    </li>
 						
 					<li>
-                        <a class="tag_menu" href="contact.html">CONTACT</a>                    </li>
+                        <Link class="tag_menu" to="/Contact">CONTACT</Link>                    </li>
 					
 					<li class="dropdown">
 					  <a class="tag_menu" href="#" data-toggle="dropdown" role="button" aria-expanded="false">MORE<span class="caret"></span></a>

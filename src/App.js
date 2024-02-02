@@ -9,6 +9,7 @@ import { Testimonial } from './component/pages/Testimonial';
 import { Gallery } from './component/pages/Gallery';
 import { Service } from './component/pages/Service';
 import { Team } from './component/pages/Team';
+import { Contact } from './component/pages/Contact';
 
 // import "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
 
@@ -28,6 +29,7 @@ function App() {
   <Route path='/gallery' element={<Master Rcf={Gallery}/>}></Route>
   <Route path='/service' element={<Master Rcf={Service}/>}></Route>
   <Route path='/team' element={<Master Rcf={Team}/>}></Route>
+  <Route path='/contact' element={<Master Rcf={Contact}/>}></Route>
 
   </Routes>
   </BrowserRouter>
