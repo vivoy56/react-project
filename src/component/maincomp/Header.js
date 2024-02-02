@@ -32,7 +32,7 @@ return (
 					
 					<li>
           
-                         <Link class="tag_menu" href="/Blog">BLOG</Link>                  </li>   
+                         <Link class="tag_menu" href="/blog">BLOG</Link>                  </li>   
                     
 					<li>
                         <a class="tag_menu" href="testimonial.html">TESTIMONIAL</a>                    </li>
